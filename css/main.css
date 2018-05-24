@@ -1,0 +1,54 @@
+@font-face {
+  font-family: champagne limousines;
+  src: url("/fonts/Champagne & Limousines.woff"); }
+
+body {
+  font-family: champagne body limousines; }
+
+.bcolor {
+  background: -webkit-linear-gradient(330deg, white 24%, #cfe1a2 45%, white 72%);
+  background: -o-linear-gradient(330deg, white 24%, #cfe1a2 45%, white 72%);
+  background: linear-gradient(120deg, white 24%, #cfe1a2 45%, white 72%); }
+
+#Rectangle4 {
+  left: 3.5rem;
+  top: -30rem;
+  position: absolute;
+  z-index: -4; }
+
+.navbar-brand img {
+  width: 1.2em; }
+
+.navbar {
+  border-bottom: 1px solid grey; }
+
+.about img {
+  height: 15em; }
+
+.here a {
+  color: #3F982B; }
+  .here a:hover {
+    color: #CFE1A2;
+    text-decoration: none; }
+
+div.slider {
+  border-top: 1px solid #3F982B;
+  border-bottom: 1px solid #3F982B; }
+
+.slider img {
+  width: 23rem;
+  height: 23rem;
+  position: relative; }
+
+.benefit p {
+  font-size: 1.2rem; }
+
+.hrfooter {
+  color: black; }
+
+.btn-social {
+  background-color: #805634;
+  color: white; }
+  .btn-social:hover, .btn-social:focus, .btn-social:active {
+    background-color: white;
+    color: #805634; }
